@@ -104,7 +104,9 @@ This script:
 | Name              | Role                  |
 |-------------------|-----------------------|
 | Meshack Kimoloi   | DB Designer  |
-| Team Members      | QA & Documentation    |
+| Gabriel Mwendwa    | DB Developer   |
+| Awinja Millicent | QA & Documentation    |
+| Irene Nditi     | QA & Documentation    |
 
 ---
 
